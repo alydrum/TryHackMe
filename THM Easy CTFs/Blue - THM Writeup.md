@@ -1,3 +1,7 @@
+# TryHackMe Writeup - Blue
+
+### Difficulty - Easy
+
 ### Description from THM
 > Deploy and hack into a Windows machine, leveraging common misconfiguration issues.
 
