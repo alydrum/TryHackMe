@@ -1,4 +1,4 @@
-# TryHackMe
+# TryHackMe Write-Ups
 This is a collection of the TryHackMe write-ups I have done. 
 
 ## Easy THM CTFs
